@@ -1,3 +1,4 @@
+![Screenshot (35)_LI_Moment](https://user-images.githubusercontent.com/77666204/114375413-f53aca00-9bc7-11eb-829f-13fd8c1eff8c.jpg)
 # 06 Server-Side APIs: Weather Dashboard
 
 ## Your Task
