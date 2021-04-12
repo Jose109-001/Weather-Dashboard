@@ -90,7 +90,7 @@ You are required to submit BOTH of the following for review:
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 
-##Press here to open: https://jose109-001.github.io/Weather-Dashboard/
+#Press here to open: https://jose109-001.github.io/Weather-Dashboard/
 
 
 ![Screenshot (35)_LI_Moment](https://user-images.githubusercontent.com/77666204/114377288-d2111a00-9bc9-11eb-9c5c-1a00886a8bfd.jpg)
